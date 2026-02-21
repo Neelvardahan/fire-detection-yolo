@@ -1,0 +1,16 @@
+The bestnew.pt and best.pt are already trained data from google colab using the above datasets.
+
+The data sets(Object detection and Image classification) are completely trained in colab and the trained information is stored in the  bestnew.pt and best.pt 
+
+You may re-train the data sets with the respective codes using below links:
+
+CLASSIFICATION:
+https://colab.research.google.com/drive/1PkPAjS6MpKvsFmKRh5afnjJAN7tE4pSL?usp=sharing
+
+
+OBJECT_DETECTION:
+https://colab.research.google.com/drive/1unzMOzIZxoRkSn729IHo9eMd5TF-MIIa?usp=sharing
+
+
+How to run:
+install all the requirements and then run firek.py python file
