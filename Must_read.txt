@@ -11,6 +11,15 @@ https://colab.research.google.com/drive/1PkPAjS6MpKvsFmKRh5afnjJAN7tE4pSL?usp=sh
 OBJECT_DETECTION:
 https://colab.research.google.com/drive/1unzMOzIZxoRkSn729IHo9eMd5TF-MIIa?usp=sharing
 
+## 📂 Dataset
+
+The dataset used for training is hosted on Kaggle and accessed via Google Colab.
+
+- Platform: Kaggle
+- Training environment: Google Colab (GPU)
+
+Due to GitHub size limitations, the dataset is not included in this repository.
+
 
 How to run:
 install all the requirements and then run firek.py python file
